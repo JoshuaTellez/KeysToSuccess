@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:columnCount="3"
+    android:rowCount="3"
+    android:orientation="horizontal"
+    android:layout_centerHorizontal="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="hackpoly.keystosuccess.MainActivity">
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="left|top"
+        android:background="@drawable/dj1"
+        android:id="@+id/dj1"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj2"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj2"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj3"
+        android:layout_gravity="left|top"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj3"
+        />
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj4"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:id="@+id/dj4"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj5"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj5"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj6"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj6"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj7"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:id="@+id/dj7"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj8"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj8"/>
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj9"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj9"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj10"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:id="@+id/dj10"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj11"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj11"/>
+
+    <ImageButton
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/dj12"
+        android:layout_gravity="left|top"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/dj12"/>
+
+
+
+
+</GridLayout>
